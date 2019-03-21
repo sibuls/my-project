@@ -1,5 +1,6 @@
-Mój projekt
+Klikacz obrazkowy
 ---
 opis
----
+
+
 licencja
