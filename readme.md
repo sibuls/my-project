@@ -1,7 +1,7 @@
-#Klikacz obrazkowy
+# Klikacz obrazkowy
 
-##opis
+## opis
 lorem
 
-##licencja
+## licencja
 opis
