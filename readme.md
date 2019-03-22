@@ -1,6 +1,7 @@
-Klikacz obrazkowy
----
+#Klikacz obrazkowy
+
+##opis
+lorem
+
+##licencja
 opis
-
-
-licencja
